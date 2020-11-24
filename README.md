@@ -1,4 +1,4 @@
-## Available Scripts
+## Netflix Clone
 
 In the project directory, you can run:
 
