@@ -1,6 +1,6 @@
 ## Netflix Clone
 
-### A clone for the netflix application frontend with reactjs and firebase.
+### A frontend clone of netflix with reactjs and firebase.
 
 In the project directory, you can run:
 
